@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.product-info{
+  margin-top: 10px;
+}
+.product-info img{
+  height: 250px;
+}
+.single-product-info img{
+  width: 200px;
+  height: 250px;
+}
